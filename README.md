@@ -7,4 +7,4 @@
 
 ### 在哪能用上呢？
 右上角链接，或点击下方
-https://tnotawa.github.io/wordgameworld-black-magic-extract.html
+https://tnotawa.github.io/wordgameworld-black-magic-extract
